@@ -8,3 +8,6 @@ there is no clear cut rule on what you should/should not include in your charts.
 - what is the medium, will the figure be printed out, or visualised online?
 # data accessibility
 keep in mind cognitive and perceptual constraints that might affect the data experience
+
+# multidisciplinarity
+different skills and backgrounds
